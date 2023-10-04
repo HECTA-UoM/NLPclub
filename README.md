@@ -1,12 +1,12 @@
-# NLPclub
+# Manchester Open NLPclub
 NLP journal club at the Uni of Manchester - hybrid events
 
-Talk schedules google sheet below, pls also fill in your interest in giving a talk if fancy it adn get in touch 🙂
+Talk schedules google sheet below, pls also fill in your interest in giving a talk if fancy it and get in touch 🙂
 
-https://docs.google.com/spreadsheets/d/12XP_srZvXWyUjGvJy5aR-29_SWLyASfgALWsvrwJh5c/edit?usp=sharing
+[talk-list](https://docs.google.com/spreadsheets/d/12XP_srZvXWyUjGvJy5aR-29_SWLyASfgALWsvrwJh5c/edit?usp=sharing)
 
 Wednsdays 2-3pm UK time, 
-Room 2.33 in Kilburn Building, Oxford Road, University of Mancheter 
+Room 2.33 in Kilburn Building, Oxford Road, University of Manchester, UK 
 
 & 
 Zoom:
@@ -15,5 +15,4 @@ https://zoom.us/j/8426661344?pwd=blBPajE0VUlHR0lQWmJFMktrM3prdz09
 Meeting ID: 842 666 1344	
 Passcode: helloworld
 
-Historical talk recordings:
-https://drive.google.com/drive/folders/1e2cFTPXtCjDFGok-nSgbNEwgqaPAFsSB?usp=sharing 
+[Historical talk recordings](https://drive.google.com/drive/folders/1e2cFTPXtCjDFGok-nSgbNEwgqaPAFsSB?usp=sharing)
