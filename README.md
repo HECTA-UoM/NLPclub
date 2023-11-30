@@ -1,6 +1,8 @@
 # Manchester Open NLPclub
 NLP journal club at the Uni of Manchester - hybrid events
 
+# New Twitter account: @Manchester_NLP 
+
 Talk schedules google sheet below, pls also fill in your interest in giving a talk if fancy it and get in touch 🙂
 
 [talk-list](https://docs.google.com/spreadsheets/d/12XP_srZvXWyUjGvJy5aR-29_SWLyASfgALWsvrwJh5c/edit?usp=sharing)
