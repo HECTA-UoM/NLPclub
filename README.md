@@ -18,3 +18,6 @@ Meeting ID: 842 666 1344
 Passcode: helloworld
 
 [Historical talk recordings](https://drive.google.com/drive/folders/1e2cFTPXtCjDFGok-nSgbNEwgqaPAFsSB?usp=sharing)
+
+# Contact
+[Lifeng Han (PhD)](https://scholar.google.com/citations?hl=en&user=_vf3E2QAAAAJ&view_op=list_works&sortby=pubdate) | email: firstname.lastname@manchester.ac.uk
