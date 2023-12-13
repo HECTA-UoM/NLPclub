@@ -1,3 +1,7 @@
+
+<img src="https://github.com/HECTA-UoM/NLPclub/blob/main/Mcr_NLPclub_logo.pdf" width="100">
+
+
 # Manchester Open NLPclub
 NLP journal club at the Uni of Manchester - hybrid events
 
