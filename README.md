@@ -11,9 +11,11 @@ NLP journal club at the Uni of Manchester - hybrid events
 Google sheet below, pls also fill in your interest in giving a talk if fancy it and get in touch 🙂
 [talk-list](https://docs.google.com/spreadsheets/d/12XP_srZvXWyUjGvJy5aR-29_SWLyASfgALWsvrwJh5c/edit?usp=sharing)
 
-## 2023 talks [done](https://github.com/HECTA-UoM/NLPclub/blob/main/2023-done-Talk%20Schedule-%20Wednesdays%202-3pm%20UK%20time.xlsx)
+## 2023 talks [done](https://github.com/HECTA-UoM/NLPclub/blob/main/Talk%20Schedule-%20Wednesdays%202-3pm%20UK%20time%20-%202023%20Talk%20Schedule-.pdf)
 Was hosted on Wednsdays 2-3pm UK time, 
 Room 2.33 in Kilburn Building, Oxford Road, University of Manchester, UK 
+
+## 2022 talks [done](https://github.com/HECTA-UoM/NLPclub/blob/main/Talk%20Schedule-%20Wednesdays%202-3pm%20UK%20time%20-%202022%20Talk%20schedule.pdf)
 
 ## 2024: we move to 3-4pm UK time, Wednesdays, still hybrid, Room 2.33 and same zoom:
 Join Zoom Meeting
