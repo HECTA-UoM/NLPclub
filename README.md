@@ -7,7 +7,8 @@ NLP journal club at the Uni of Manchester - hybrid events
 
 # New Twitter account: @Manchester_NLP 
 
-Talk schedules Google sheet below, pls also fill in your interest in giving a talk if fancy it and get in touch 🙂
+# Upcoming Talk schedules 
+Google sheet below, pls also fill in your interest in giving a talk if fancy it and get in touch 🙂
 [talk-list](https://docs.google.com/spreadsheets/d/12XP_srZvXWyUjGvJy5aR-29_SWLyASfgALWsvrwJh5c/edit?usp=sharing)
 
 ## 2023 talks [done](https://github.com/HECTA-UoM/NLPclub/blob/main/2023-done-Talk%20Schedule-%20Wednesdays%202-3pm%20UK%20time.xlsx)
