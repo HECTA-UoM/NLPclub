@@ -26,5 +26,8 @@ Room 2.33 in Kilburn Building, Oxford Road, University of Manchester, UK
 
 ## 2022 talks [done](https://github.com/HECTA-UoM/NLPclub/blob/main/Talk%20Schedule-%20Wednesdays%202-3pm%20UK%20time%20-%202022%20Talk%20schedule.pdf)
 
+## Open-research models/projects
+Why not Check out what we developed in the HECTA group at UoM? it is just one layer up in the main repository: https://github.com/HECTA-UoM/NLPclub 
+
 # Contact
 [Lifeng Han (PhD)](https://scholar.google.com/citations?hl=en&user=_vf3E2QAAAAJ&view_op=list_works&sortby=pubdate) | email: firstname.lastname@manchester.ac.uk
