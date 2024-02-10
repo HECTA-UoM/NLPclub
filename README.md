@@ -1,5 +1,5 @@
 
-<img src="https://github.com/HECTA-UoM/NLPclub/blob/main/Mcr_NLPclub_logo.png" width="200">
+<img src="https://github.com/HECTA-UoM/NLPclub/blob/main/Mcr_NLPclub_logo.png" width=400">
 
 
 # Manchester Open NLPclub
