@@ -17,8 +17,8 @@ Passcode: helloworld
 
 
 # Upcoming Talk schedules 
-Google sheet below, pls also fill in your interest in giving a talk if fancy it and get in touch 🙂
-[talk-list](https://docs.google.com/spreadsheets/d/12XP_srZvXWyUjGvJy5aR-29_SWLyASfgALWsvrwJh5c/edit?usp=sharing)
+Google sheet below, pls also fill in your interest in giving a talk if fancy it and get in touch 🙂 [new-sheet](https://docs.google.com/spreadsheets/d/1HToi3LxUuuH9UPJjckyGLYVebF6amtIWhpZLPblTIaI/edit?gid=0#gid=0)
+[to-honor-the-old-talk-list](https://docs.google.com/spreadsheets/d/12XP_srZvXWyUjGvJy5aR-29_SWLyASfgALWsvrwJh5c/edit?usp=sharing)
 
 ## 2023 talks [done](https://github.com/HECTA-UoM/NLPclub/blob/main/Talk%20Schedule-%20Wednesdays%202-3pm%20UK%20time%20-%202023%20Talk%20Schedule-.pdf)
 Was hosted on Wednsdays 2-3pm UK time, 
