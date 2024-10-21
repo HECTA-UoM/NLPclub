@@ -30,4 +30,4 @@ Room 2.33 in Kilburn Building, Oxford Road, University of Manchester, UK
 Why not Check out what we developed in the HECTA group at UoM? it is just one layer up in the main repository: https://github.com/HECTA-UoM/
 
 # Contact
-[Lifeng Han (PhD)](https://scholar.google.com/citations?hl=en&user=_vf3E2QAAAAJ&view_op=list_works&sortby=pubdate) | email: firstname.lastname@manchester.ac.uk
+[Lifeng Han (PhD)](https://scholar.google.com/citations?hl=en&user=_vf3E2QAAAAJ&view_op=list_works&sortby=pubdate) | email: l.lastname@lumc.nl
