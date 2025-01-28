@@ -7,7 +7,7 @@ NLP journal club at the Uni of Manchester - hybrid events
 
 # New Twitter account: @Manchester_NLP 
 
-## 2024: we move to 3-4pm UK time, Wednesdays, still hybrid, Room 2.33. New on Team:
+## 2025: we move to 3-4pm UK time, Wednesdays, still hybrid, Room 2.33. New on Team:
 
 Microsoft Teams Need help?
 Join the meeting now
