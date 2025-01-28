@@ -7,11 +7,12 @@ NLP journal club at the Uni of Manchester - hybrid events
 
 # New Twitter account: @Manchester_NLP 
 
-## 2024: we move to 3-4pm UK time, Wednesdays, still hybrid, Room 2.33 and same zoom:
-Join Zoom Meeting
-https://zoom.us/j/8426661344?pwd=blBPajE0VUlHR0lQWmJFMktrM3prdz09
-Meeting ID: 842 666 1344	
-Passcode: helloworld
+## 2024: we move to 3-4pm UK time, Wednesdays, still hybrid, Room 2.33. New on Team:
+
+Microsoft Teams Need help?
+Join the meeting now
+Meeting ID: 373 430 500 098
+Passcode: 5Lk2nr9k
 
 [Historical talk recordings](https://drive.google.com/drive/folders/1e2cFTPXtCjDFGok-nSgbNEwgqaPAFsSB?usp=sharing)
 
